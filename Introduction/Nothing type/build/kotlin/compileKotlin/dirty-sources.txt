@@ -1,0 +1,1 @@
+/Users/r_kumazawa/yumemi/Kotlin Koans/Introduction/Nothing type/src/Task.kt

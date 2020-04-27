@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 22
-    length: 6
+    length: 4
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: '"OK"'
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     fun start(): String = TODO()
   learner_created: false
@@ -30,5 +30,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

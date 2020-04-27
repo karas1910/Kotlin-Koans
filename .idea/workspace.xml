@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80056905-b240-48cf-aaec-2a232b1d9bdf" name="Default Changelist" comment="" />
+    <list default="true" id="80056905-b240-48cf-aaec-2a232b1d9bdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders implementation/Builders-Builders_implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Classes/Data classes/Classes-Data_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Classes/Extension functions/Classes-Extension_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Classes/Rename on import/Classes-Rename_on_import.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Classes/Sealed classes/Classes-Sealed_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Classes/Smart casts/Classes-Smart_casts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Associate/Collections-Associate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Getting used to new style/Collections-Getting_used_to_new_style.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sequences/Collections-Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Ranges/Conventions-Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nothing type/Introduction-Nothing_type.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/String templates/Introduction-String_templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Triple-quoted strings/Introduction-Triple-quoted_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Kotlin_Koans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Default arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Default arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Hello, world!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Hello, world!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Triple-quoted strings/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/task-info.yaml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +100,17 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b7GYoFLmVIYGToKXRrOgCbnQ8Y" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -36,6 +125,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,5 +146,18 @@
       <updated>1587975768195</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
