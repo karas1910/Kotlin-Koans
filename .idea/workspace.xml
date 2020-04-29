@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80056905-b240-48cf-aaec-2a232b1d9bdf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
