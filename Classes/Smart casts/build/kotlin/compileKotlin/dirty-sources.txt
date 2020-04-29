@@ -1,1 +1,0 @@
-/Users/r_kumazawa/yumemi/Kotlin Koans/Classes/Smart casts/src/Task.kt
