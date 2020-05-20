@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: RationalNumber(this, 1)
     selected: false
-    status: Failed
+    status: Solved
   - offset: 96
     length: 29
     placeholder_text: TODO()
@@ -23,7 +23,7 @@ files:
     initialized_from_dependency: false
     possible_answer: RationalNumber(first, second)
     selected: false
-    status: Failed
+    status: Solved
   text: |
     fun Int.r(): RationalNumber = TODO()
 
@@ -49,5 +49,5 @@ files:
         }
     }
   learner_created: false
-status: Failed
+status: Solved
 record: -1

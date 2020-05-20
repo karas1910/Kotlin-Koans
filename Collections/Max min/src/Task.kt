@@ -1,7 +1,8 @@
 // Return a customer who has placed the maximum amount of orders
 fun Shop.getCustomerWithMaxOrders(): Customer? =
-        TODO()
+    customers.maxBy { it.orders.size }
 
 // Return the most expensive product that has been ordered by the given customer
-fun getMostExpensiveProductBy(customer: Customer): Product? =
-        TODO()
+fun getMostExpensiveProductBy(customer: Customer): Product? {
+    return customer.orders.flatMap(Order::products).maxBy(Product::price)
+}

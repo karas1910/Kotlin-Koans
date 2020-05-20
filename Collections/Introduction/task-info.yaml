@@ -4,16 +4,16 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 54
-    length: 6
+  - offset: 0
+    length: 68
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 54
     initialized_from_dependency: false
     possible_answer: customers.toSet()
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     fun Shop.getSetOfCustomers(): Set<Customer> =
             TODO()
@@ -122,5 +122,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
